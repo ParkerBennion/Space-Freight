@@ -60,35 +60,39 @@
      <Compile Include="Assets\Physics_Material_Manager3D\scripts\PMM_DataBase3D.cs" />
      <Compile Include="Assets\Physics_Material_Manager3D\scripts\PMM_Variables3D.cs" />
      <Compile Include="Assets\Physics_Material_Manager3D\scripts\PuckForce.cs" />
+     <Compile Include="Assets\Scripts\BasicVel.cs" />
      <Compile Include="Assets\Scripts\Boster.cs" />
+     <Compile Include="Assets\Scripts\Gmove.cs" />
      <Compile Include="Assets\Scripts\LeftBoost.cs" />
      <Compile Include="Assets\Scripts\RightBoost.cs" />
+     <Compile Include="Assets\Scripts\VectorThrust.cs" />
+     <Compile Include="Assets\Scripts\View.cs" />
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>C:/Users/parke/Desktop/git kraken/Personal Unity Projects/Air Cargo/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>D:/Private Unity Projects/Space-Freight/Air Cargo/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>C:/Users/parke/Desktop/git kraken/Personal Unity Projects/Air Cargo/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ <HintPath>D:/Private Unity Projects/Space-Freight/Air Cargo/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>C:/Users/parke/Desktop/git kraken/Personal Unity Projects/Air Cargo/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>D:/Private Unity Projects/Space-Freight/Air Cargo/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>C:/Users/parke/Desktop/git kraken/Personal Unity Projects/Air Cargo/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>D:/Private Unity Projects/Space-Freight/Air Cargo/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>C:/Users/parke/Desktop/git kraken/Personal Unity Projects/Air Cargo/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>D:/Private Unity Projects/Space-Freight/Air Cargo/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>C:/Users/parke/Desktop/git kraken/Personal Unity Projects/Air Cargo/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ <HintPath>D:/Private Unity Projects/Space-Freight/Air Cargo/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
- <HintPath>C:/Users/parke/Desktop/git kraken/Personal Unity Projects/Air Cargo/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>D:/Private Unity Projects/Space-Freight/Air Cargo/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>C:/Users/parke/Desktop/git kraken/Personal Unity Projects/Air Cargo/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>D:/Private Unity Projects/Space-Freight/Air Cargo/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>C:/Users/parke/Desktop/git kraken/Personal Unity Projects/Air Cargo/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>D:/Private Unity Projects/Space-Freight/Air Cargo/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.17f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
